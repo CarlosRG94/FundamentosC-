@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\bin\Debug\net6.0\HerenciaDeClase.exe
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\bin\Debug\net6.0\HerenciaDeClase.deps.json
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\bin\Debug\net6.0\HerenciaDeClase.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\bin\Debug\net6.0\HerenciaDeClase.dll
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\bin\Debug\net6.0\HerenciaDeClase.pdb
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.dll
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\refint\HerenciaDeClase.dll
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.pdb
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\HerenciaDeClase.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\HerenciaDeClase\obj\Debug\net6.0\ref\HerenciaDeClase.dll

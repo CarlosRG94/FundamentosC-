@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\bin\Debug\net6.0\BucleWhile.exe
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\bin\Debug\net6.0\BucleWhile.deps.json
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\bin\Debug\net6.0\BucleWhile.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\bin\Debug\net6.0\BucleWhile.dll
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\bin\Debug\net6.0\BucleWhile.pdb
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.dll
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\refint\BucleWhile.dll
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.pdb
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\BucleWhile.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\BucleWhile\obj\Debug\net6.0\ref\BucleWhile.dll

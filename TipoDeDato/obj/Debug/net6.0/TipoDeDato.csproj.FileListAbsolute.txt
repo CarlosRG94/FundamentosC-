@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\bin\Debug\net6.0\TipoDeDato.exe
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\bin\Debug\net6.0\TipoDeDato.deps.json
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\bin\Debug\net6.0\TipoDeDato.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\bin\Debug\net6.0\TipoDeDato.dll
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\bin\Debug\net6.0\TipoDeDato.pdb
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.dll
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\refint\TipoDeDato.dll
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.pdb
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\TipoDeDato.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\TipoDeDato\obj\Debug\net6.0\ref\TipoDeDato.dll

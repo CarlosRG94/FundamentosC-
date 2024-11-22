@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\bin\Debug\net6.0\TaskCsharp.exe
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\bin\Debug\net6.0\TaskCsharp.deps.json
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\bin\Debug\net6.0\TaskCsharp.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\bin\Debug\net6.0\TaskCsharp.dll
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\bin\Debug\net6.0\TaskCsharp.pdb
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.dll
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\refint\TaskCsharp.dll
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.pdb
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\TaskCsharp.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\TaskCsharp\obj\Debug\net6.0\ref\TaskCsharp.dll

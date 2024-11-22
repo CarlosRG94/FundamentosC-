@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\bin\Debug\net6.0\MetodoslLists.exe
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\bin\Debug\net6.0\MetodoslLists.deps.json
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\bin\Debug\net6.0\MetodoslLists.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\bin\Debug\net6.0\MetodoslLists.dll
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\bin\Debug\net6.0\MetodoslLists.pdb
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.dll
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\refint\MetodoslLists.dll
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.pdb
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\MetodoslLists.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\MetodoslLists\obj\Debug\net6.0\ref\MetodoslLists.dll

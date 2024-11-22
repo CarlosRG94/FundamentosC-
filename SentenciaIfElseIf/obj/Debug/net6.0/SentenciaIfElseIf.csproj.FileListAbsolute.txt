@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.exe
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.deps.json
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.dll
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.pdb
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.dll
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\refint\SentenciaIfElseIf.dll
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.pdb
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\SentenciaIfElseIf\obj\Debug\net6.0\ref\SentenciaIfElseIf.dll

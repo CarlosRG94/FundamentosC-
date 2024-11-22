@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\bin\Debug\net6.0\GeneInterWher.exe
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\bin\Debug\net6.0\GeneInterWher.deps.json
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\bin\Debug\net6.0\GeneInterWher.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\bin\Debug\net6.0\GeneInterWher.dll
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\bin\Debug\net6.0\GeneInterWher.pdb
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.dll
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\refint\GeneInterWher.dll
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.pdb
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\GeneInterWher.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\GeneInterWher\obj\Debug\net6.0\ref\GeneInterWher.dll

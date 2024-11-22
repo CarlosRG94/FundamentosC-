@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\Static\bin\Debug\net6.0\Static.exe
+C:\Users\carli\source\repos\CsharpCourse\Static\bin\Debug\net6.0\Static.deps.json
+C:\Users\carli\source\repos\CsharpCourse\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\Static\bin\Debug\net6.0\Static.dll
+C:\Users\carli\source\repos\CsharpCourse\Static\bin\Debug\net6.0\Static.pdb
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.dll
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.pdb
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\Static\obj\Debug\net6.0\ref\Static.dll

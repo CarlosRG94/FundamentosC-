@@ -1,0 +1,15 @@
+C:\Users\carli\source\repos\CsharpCourse\Collection5\bin\Debug\net6.0\CollectionFive.exe
+C:\Users\carli\source\repos\CsharpCourse\Collection5\bin\Debug\net6.0\CollectionFive.deps.json
+C:\Users\carli\source\repos\CsharpCourse\Collection5\bin\Debug\net6.0\CollectionFive.runtimeconfig.json
+C:\Users\carli\source\repos\CsharpCourse\Collection5\bin\Debug\net6.0\CollectionFive.dll
+C:\Users\carli\source\repos\CsharpCourse\Collection5\bin\Debug\net6.0\CollectionFive.pdb
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.csproj.AssemblyReference.cache
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.AssemblyInfoInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.AssemblyInfo.cs
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.csproj.CoreCompileInputs.cache
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.dll
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\refint\CollectionFive.dll
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.pdb
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\CollectionFive.genruntimeconfig.cache
+C:\Users\carli\source\repos\CsharpCourse\Collection5\obj\Debug\net6.0\ref\CollectionFive.dll
